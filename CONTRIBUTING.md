@@ -10,3 +10,6 @@ Thank you for considering contributing!
 
 ## Reporting Issues
 Please use GitHub Issues to report bugs or suggest features.
+
+
+"All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome."
